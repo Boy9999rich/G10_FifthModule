@@ -1,0 +1,6 @@
+@MovieCrud.Api_HostAddress = http://localhost:5189
+
+GET {{MovieCrud.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
